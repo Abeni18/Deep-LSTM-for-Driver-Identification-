@@ -5,4 +5,4 @@ are becoming a new threat. In this paper, a deep learning model is proposed, whi
  Link to the [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8995202&casa_token=FnCWyRl9S0sAAAAA:BJf0ASpjoTmdSgGQcJUVa-k-0olRVMwBObUuyNu0ddNwd2Xj8mTQO3Fh-qiwGzEXdtox8bGq3g&tag=1)
 
 
-![data acquisition] https://github.com/Abeni18/Deep-LSTM-for-Driver-Identification-/blob/master/obd.png
+![data acquisition]https://github.com/Abeni18/Deep-LSTM-for-Driver-Identification-/blob/master/obd.png
